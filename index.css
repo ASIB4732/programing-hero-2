@@ -1,0 +1,74 @@
+
+body{
+    font-family: poppins,sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.section{
+    background-image: url("new folder/download.jpg");
+    background-repeat:no-repeat;
+    background-size: 1550px;   
+}
+.section1{
+    background-image: url("new folder/picture.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.button1{
+    color: orange;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+section{
+    height: 500px;
+    padding-bottom: 250px;
+}
+.button2{
+    width: 200px;
+    height: 35px;
+    color: orange;
+    font-size: 25px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+a:visited{
+    color: orange;
+}
+.color{
+    color: orange;
+}
+.div-xxx{
+    box-shadow:10px 10px 40px grey;
+    border-radius: 7px;
+    height: 75%;
+}
+#border-line{
+    border-left: 7px solid red ;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
+}
+#id{
+    border-left: 7px solid ;
+    border-image: linear-gradient(red,blue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+
+
