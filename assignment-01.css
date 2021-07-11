@@ -1,0 +1,74 @@
+body{
+    font-family: poppins,sans-serif;
+    margin: 0%;
+}
+section{
+    height: 500px;
+    padding-bottom: 250px;
+}
+.color{
+    color:orangered;
+    font-size: 40px;
+}
+.ing-size-1{
+    width: 90%;
+}
+div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.color-button{
+    color: orangered;
+
+    font-size: 20px;
+}
+.background-1{
+    background-image: url("new folder/New folder/header-bg.png");
+}
+img{
+    width: 30%;
+}
+
+
+
+
+#asib{
+    float: left;
+}
+.footer{
+    font-size: 20px;
+}
+
+
+.center{
+    text-align: center;
+
+
+}
+#xxx{
+    margin-left: 600px;
+    color: orangered;
+
+}
+.background-3{
+    background-image: url("new folder/new folder/latest-work-bg.png");
+
+}
+.div-img{
+    width: ;
+}
+.center1{
+    color: orangered;
+    text-align: center;
+    font-size: 30px;
+}
+.div-img{
+    margin-left: 6%;
+
+    width: 25%;
+}
+.background-5{
+    background-image: url("new folder/new folder/footer-bg.png");
+}
