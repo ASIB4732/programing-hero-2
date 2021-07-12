@@ -57,7 +57,7 @@ a:visited{
     height: 75%;
 }
 #border-line{
-    border-left: 7px solid  ;
+    border-left: 7px solid ;
     border-image: linear-gradient(blue,red);
     border-image-slice: 1;
 }

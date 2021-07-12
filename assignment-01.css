@@ -1,74 +1,120 @@
-body{
-    font-family: poppins,sans-serif;
+.container {
+    width: 960px;
+}
+
+body {
+    font-family: poppins, sans-serif;
     margin: 0%;
 }
-section{
+
+section {
     height: 500px;
     padding-bottom: 250px;
 }
-.color{
-    color:orangered;
+
+.color {
+    color: orangered;
     font-size: 40px;
 }
-.ing-size-1{
+
+.ing-size-1 {
     width: 90%;
 }
-div{
+
+div {
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 3%;
 }
-.color-button{
+
+.color-button {
     color: orangered;
 
     font-size: 20px;
 }
-.background-1{
+
+.background-1 {
     background-image: url("new folder/New folder/header-bg.png");
 }
-img{
+
+img {
     width: 30%;
 }
 
 
 
 
-#asib{
+#asib {
     float: left;
 }
-.footer{
+
+.footer {
     font-size: 20px;
 }
 
 
-.center{
+.center {
     text-align: center;
 
 
 }
-#xxx{
+
+#xxx {
     margin-left: 600px;
-    color: orangered;
+    color: rgb(243, 243, 243);
+    background-color: orange;
 
 }
-.background-3{
+
+.background-3 {
     background-image: url("new folder/new folder/latest-work-bg.png");
 
 }
-.div-img{
+
+.div-img {
     width: ;
 }
-.center1{
+
+.center1 {
     color: orangered;
     text-align: center;
     font-size: 30px;
 }
-.div-img{
+
+.div-img {
     margin-left: 6%;
 
     width: 25%;
 }
-.background-5{
+
+.background-5 {
     background-image: url("new folder/new folder/footer-bg.png");
+}
+
+.aaa {
+
+    width: 1350px;
+    height: 500px;
+
+    margin-left: -4%;
+}
+
+
+.div-img-1 {
+    width: 450px;
+    height: 500px;
+    float: left;
+}
+
+.div-img-2 {
+    width: 450px;
+    height: 500px;
+    float: left;
+}
+
+.div-img-3 {
+    width: 450px;
+    height: 500px;
+    float: left;
 }
