@@ -9,3 +9,22 @@
     height: 200px;
     border: 5px solid green;
 }
+.blog{
+    width: 150px;
+    height: 150px;
+    border: 2px solid orange;
+}
+.uot{
+    background-color: orchid;
+}
+.in{
+    background-color: palegreen;
+    transform:scale(.75) rotate(30deg);
+    
+}
+.line{
+    width: 150px;
+    height: 150px;
+    border: 5px solid orange;
+    margin-top: 5%;
+}
